@@ -57,7 +57,7 @@ main .a1 .bx {
   height: 50%;
 }
 main .a1 .bx:nth-child(1) {
-  background: url("https://github.com/denilsonjorge/news-homepage/blob/main/images/image-web-3-desktop.jpg") no-repeat center
+  background: url("https://github.com/denilsonjorge/news-homepage/images/image-web-3-desktop.jpg") no-repeat center
     center;
   background-size: cover;
 }
