@@ -57,7 +57,7 @@ main .a1 .bx {
   height: 50%;
 }
 main .a1 .bx:nth-child(1) {
-  background: url("https://github.com/denilsonjorge/news-homepage/images/image-web-3-desktop.jpg") no-repeat center
+  background: url("/images/image-web-3-desktop.jpg") no-repeat center
     center;
   background-size: cover;
 }
@@ -203,14 +203,14 @@ main .a3 .card p {
   main header .mobile{
     width: 30px;
     height: 30px;
-    background: url('https://github.com/denilsonjorge/news-homepage/blob/main/images/icon-menu.svg') no-repeat center center;
+    background: url('/images/icon-menu.svg') no-repeat center center;
     background-size: cover;
     cursor: pointer;
   }
   main header .mobile-close{
     width: 30px;
     height: 30px;
-    background: url('https://github.com/denilsonjorge/news-homepage/blob/main/images/icon-menu-close.svg') no-repeat center center;
+    background: url('/images/icon-menu-close.svg') no-repeat center center;
     background-size: cover;
     cursor: pointer;
     position: absolute;
@@ -236,7 +236,7 @@ main .a3 .card p {
     width: 100%;
   }
   main .a1 .bx:nth-child(1) {
-    background: url("https://github.com/denilsonjorge/news-homepage/blob/main/images/image-web-3-mobile.jpg") no-repeat center
+    background: url("/images/image-web-3-mobile.jpg") no-repeat center
       center;
     background-size: cover;
   }
