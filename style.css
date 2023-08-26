@@ -57,8 +57,9 @@ main .a1 .bx {
   height: 50%;
 }
 main .a1 .bx:nth-child(1) {
-  background: url(images/image-web-3-desktop.jpg) no-repeat center
-    center;
+  background-image: url(images/image-web-3-desktop.jpg);
+  background-repeat: no-repeat;
+  background-size: center center;
   background-size: cover;
 }
 main .a1 .bx:nth-child(2) {
