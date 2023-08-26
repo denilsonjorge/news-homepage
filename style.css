@@ -111,6 +111,9 @@ main .a2 h2 {
   margin-bottom: 10px;
   color: #ffffff;
 }
+main .a2 h2:hover {
+  color: #5d5f79;
+}
 main .a2 p {
   line-height: 1.5em;
   font-size: 14px;
